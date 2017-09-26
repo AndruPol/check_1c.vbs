@@ -4,12 +4,12 @@
  
  в системе мониторинга Nagios/Icinga. Использует COM соединение (V83|V82.ComConnector)
  
- для получения данных от сервера 1С:Предприятие. Сделано мной ;) a.pol@mail.ru
+ для получения данных от сервера 1С:Предприятие.
  
 
  Запуск:
  
-  1. Прописать в файле nsclient.ini настроек NSClient++ команды проверки
+ 1. Прописать в файле nsclient.ini настроек NSClient++ команды проверки
  
   ; A list of wrappped scripts (ie. using the template mechanism)
   
